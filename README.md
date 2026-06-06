@@ -446,7 +446,7 @@ Your target sheet must have these exact headers:
 
 ### ⚙️ n8n Workflow — Full Pipeline
 
-![n8n Workflow](men_city 2.0 update.png)
+![n8n Workflow](men_city%202.0%20update.png)
 
 > Complete 19-node automation pipeline — from Telegram input to Google Sheets output
 
