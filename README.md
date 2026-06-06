@@ -57,12 +57,10 @@
 
 <div align="center">
 
-> 📹 **Demo video coming soon** — Watch the system process a handwritten memo in real-time
+[![Watch Demo](https://img.shields.io/badge/▶%20Watch%20Full%20Demo-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/v/1BRBfz7YcG/)
 
-<!-- Replace the link below with your actual demo video URL -->
-[![Watch Demo](https://img.shields.io/badge/▶%20Watch%20Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
-
-*A clothing shop owner photographs the daily sales memo → sends to Telegram bot → all data appears in Google Sheets within 15 seconds*
+> 📹 **Full demo video on Facebook** — Watch the complete system in action:<br/>
+> Handwritten memo photo → Telegram Bot → 3-Layer AI Processing → Google Sheets in ~15 seconds
 
 </div>
 
@@ -446,11 +444,11 @@ Your target sheet must have these exact headers:
 
 <div align="center">
 
-> 📁 *Add your project screenshots here*
+### ⚙️ n8n Workflow — Full Pipeline
 
-| Telegram Bot | n8n Workflow | Google Sheets Output |
-|:---:|:---:|:---:|
-| *(screenshot)* | *(screenshot)* | *(screenshot)* |
+![n8n Workflow](men_city 2.0 update.png)
+
+> Complete 19-node automation pipeline — from Telegram input to Google Sheets output
 
 </div>
 
